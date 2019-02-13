@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="1">
+  <advance width="584"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="351" y="700" type="curve" smooth="yes"/>
+      <point x="351" y="573"/>
+      <point x="204" y="530"/>
+      <point x="204" y="429" type="curve" smooth="yes"/>
+      <point x="204" y="334"/>
+      <point x="304" y="277"/>
+      <point x="339" y="257" type="curve" smooth="yes"/>
+      <point x="428" y="207"/>
+      <point x="482" y="161"/>
+      <point x="482" y="136" type="curve" smooth="yes"/>
+      <point x="482" y="101"/>
+      <point x="454" y="78"/>
+      <point x="416" y="78" type="curve" smooth="yes"/>
+      <point x="365" y="78"/>
+      <point x="330" y="90"/>
+      <point x="309" y="110" type="curve" smooth="yes"/>
+      <point x="307" y="112"/>
+      <point x="292" y="125"/>
+      <point x="285" y="141" type="curve" smooth="yes"/>
+      <point x="274" y="166"/>
+      <point x="265" y="181"/>
+      <point x="235" y="181" type="curve" smooth="yes" name="hr01"/>
+      <point x="221" y="181"/>
+      <point x="203" y="166"/>
+      <point x="203" y="148" type="curve" smooth="yes"/>
+      <point x="203" y="120"/>
+      <point x="208" y="92"/>
+      <point x="208" y="67" type="curve" smooth="yes"/>
+      <point x="208" y="48"/>
+      <point x="205" y="29"/>
+      <point x="205" y="16" type="curve" smooth="yes"/>
+      <point x="205" y="1"/>
+      <point x="221" y="-13"/>
+      <point x="239" y="-13" type="curve" smooth="yes"/>
+      <point x="273" y="-13"/>
+      <point x="287" y="8"/>
+      <point x="288" y="50" type="curve"/>
+      <point x="309" y="18"/>
+      <point x="368" y="0"/>
+      <point x="413" y="0" type="curve" smooth="yes" name="hr02"/>
+      <point x="465" y="0"/>
+      <point x="567" y="25"/>
+      <point x="567" y="114" type="curve" smooth="yes"/>
+      <point x="567" y="196"/>
+      <point x="470" y="266"/>
+      <point x="405" y="300" type="curve" smooth="yes"/>
+      <point x="344" y="332"/>
+      <point x="292" y="368"/>
+      <point x="292" y="432" type="curve" smooth="yes"/>
+      <point x="292" y="509"/>
+      <point x="443" y="578"/>
+      <point x="443" y="698" type="curve" smooth="yes"/>
+      <point x="443" y="736"/>
+      <point x="410" y="825"/>
+      <point x="306" y="825" type="curve" smooth="yes"/>
+      <point x="77" y="825"/>
+      <point x="59" y="598"/>
+      <point x="59" y="491" type="curve" smooth="yes"/>
+      <point x="59" y="401"/>
+      <point x="61" y="349"/>
+      <point x="61" y="263" type="curve" smooth="yes"/>
+      <point x="61" y="194"/>
+      <point x="60" y="139"/>
+      <point x="56" y="77" type="curve" smooth="yes"/>
+      <point x="55" y="63"/>
+      <point x="53" y="56"/>
+      <point x="33" y="56" type="curve" smooth="yes"/>
+      <point x="19" y="56"/>
+      <point x="-7" y="50"/>
+      <point x="-7" y="29" type="curve" smooth="yes" name="hr03"/>
+      <point x="-7" y="8"/>
+      <point x="17" y="0"/>
+      <point x="35" y="0" type="curve" smooth="yes"/>
+      <point x="50" y="0"/>
+      <point x="98" y="3"/>
+      <point x="127" y="3" type="curve" smooth="yes"/>
+      <point x="140" y="3"/>
+      <point x="153" y="8"/>
+      <point x="153" y="30" type="curve" smooth="yes"/>
+      <point x="153" y="484" type="line" smooth="yes"/>
+      <point x="153" y="572"/>
+      <point x="153" y="751"/>
+      <point x="311" y="751" type="curve" smooth="yes"/>
+      <point x="338" y="751"/>
+      <point x="351" y="724"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-13" width="91" />
+      <hstem pos="-13" width="194" />
+      <hstem pos="0" width="78" />
+      <hstem pos="751" width="74" />
+      <vstem pos="-7" width="160" />
+      <vstem pos="59" width="94" />
+      <vstem pos="204" width="88" />
+      <vstem pos="351" width="92" />
+      <vstem pos="482" width="85" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

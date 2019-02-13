@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcaron" format="1">
+  <advance width="635"/>
+  <unicode hex="0164"/>
+  <outline>
+    <component base="T"/>
+    <contour>
+      <point x="430" y="972" type="curve" smooth="yes"/>
+      <point x="416" y="972"/>
+      <point x="356" y="948"/>
+      <point x="310" y="921" type="curve"/>
+      <point x="264" y="948"/>
+      <point x="205" y="972"/>
+      <point x="191" y="972" type="curve" smooth="yes"/>
+      <point x="184" y="972"/>
+      <point x="180" y="967"/>
+      <point x="180" y="959" type="curve" smooth="yes"/>
+      <point x="180" y="917"/>
+      <point x="290" y="847"/>
+      <point x="310" y="847" type="curve" smooth="yes"/>
+      <point x="334" y="847"/>
+      <point x="441" y="919"/>
+      <point x="441" y="955" type="curve" smooth="yes"/>
+      <point x="441" y="964"/>
+      <point x="438" y="972"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="868" width="-21" />
+      <hstem pos="972" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

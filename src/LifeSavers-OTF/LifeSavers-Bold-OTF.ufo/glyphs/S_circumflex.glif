@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scircumflex" format="1">
+  <advance width="613"/>
+  <unicode hex="015C"/>
+  <outline>
+    <component base="S"/>
+    <contour>
+      <point x="432" y="847" type="curve" smooth="yes"/>
+      <point x="440" y="847"/>
+      <point x="443" y="855"/>
+      <point x="443" y="864" type="curve" smooth="yes"/>
+      <point x="443" y="900"/>
+      <point x="336" y="972"/>
+      <point x="312" y="972" type="curve" smooth="yes"/>
+      <point x="292" y="972"/>
+      <point x="182" y="902"/>
+      <point x="182" y="860" type="curve" smooth="yes"/>
+      <point x="182" y="852"/>
+      <point x="186" y="847"/>
+      <point x="193" y="847" type="curve" smooth="yes"/>
+      <point x="207" y="847"/>
+      <point x="266" y="871"/>
+      <point x="312" y="898" type="curve"/>
+      <point x="358" y="871"/>
+      <point x="418" y="847"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="868" width="-21" />
+      <hstem pos="972" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

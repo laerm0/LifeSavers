@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="565"/>
+  <unicode hex="013D"/>
+  <outline>
+    <component base="L"/>
+    <contour>
+      <point x="304" y="972" type="curve" smooth="yes"/>
+      <point x="290" y="972"/>
+      <point x="230" y="948"/>
+      <point x="184" y="921" type="curve"/>
+      <point x="138" y="948"/>
+      <point x="79" y="972"/>
+      <point x="65" y="972" type="curve" smooth="yes"/>
+      <point x="58" y="972"/>
+      <point x="54" y="967"/>
+      <point x="54" y="959" type="curve" smooth="yes"/>
+      <point x="54" y="917"/>
+      <point x="164" y="847"/>
+      <point x="184" y="847" type="curve" smooth="yes"/>
+      <point x="208" y="847"/>
+      <point x="315" y="919"/>
+      <point x="315" y="955" type="curve" smooth="yes"/>
+      <point x="315" y="964"/>
+      <point x="312" y="972"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="868" width="-21" />
+      <hstem pos="972" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

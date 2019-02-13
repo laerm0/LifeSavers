@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fiveeighths" format="1">
+  <advance width="579"/>
+  <unicode hex="215D"/>
+  <outline>
+    <component base="fivesuperior" xOffset="14"/>
+    <component base="slash" xOffset="19"/>
+    <component base="eightsuperior" xOffset="296" yOffset="-508"/>
+  </outline>
+</glyph>

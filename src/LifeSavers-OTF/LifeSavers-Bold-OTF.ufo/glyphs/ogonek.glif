@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="227"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="87" y="14" type="line"/>
+      <point x="87" y="14"/>
+      <point x="14" y="-16"/>
+      <point x="14" y="-76" type="curve" smooth="yes"/>
+      <point x="14" y="-119"/>
+      <point x="57" y="-149"/>
+      <point x="115" y="-149" type="curve" smooth="yes"/>
+      <point x="162" y="-149"/>
+      <point x="193" y="-109"/>
+      <point x="193" y="-98" type="curve" smooth="yes"/>
+      <point x="193" y="-87"/>
+      <point x="186" y="-76"/>
+      <point x="172" y="-76" type="curve" smooth="yes"/>
+      <point x="168" y="-76"/>
+      <point x="165" y="-77"/>
+      <point x="159" y="-82" type="curve" smooth="yes"/>
+      <point x="148" y="-91"/>
+      <point x="143" y="-106"/>
+      <point x="109" y="-106" type="curve" smooth="yes"/>
+      <point x="93" y="-106"/>
+      <point x="78" y="-91"/>
+      <point x="78" y="-75" type="curve" smooth="yes"/>
+      <point x="78" y="-58"/>
+      <point x="88" y="-4"/>
+      <point x="137" y="13" type="curve"/>
+    </contour>
+    <contour>
+      <point x="114" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-149" width="43" />
+      <hstem pos="14" width="-20" />
+      <vstem pos="14" width="64" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
