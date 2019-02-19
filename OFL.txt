@@ -1,4 +1,4 @@
-Copyright 2019 The Life Savers Project Authors (github.com/laerm0/LifeSavers), with Reserved Font Name Life Savers.
+Copyright 2019 The Life Savers Project Authors (https://github.com/laerm0/LifeSavers), with Reserved Font Name Life Savers.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
